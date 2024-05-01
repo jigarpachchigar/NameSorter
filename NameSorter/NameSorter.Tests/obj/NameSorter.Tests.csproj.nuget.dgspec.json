@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/NameSorter/NameSorter/NameSorter.csproj": {}
+    "/workspaces/NameSorter/NameSorter/NameSorter.Tests/NameSorter.Tests.csproj": {}
   },
   "projects": {
-    "/workspaces/NameSorter/NameSorter/NameSorter.csproj": {
+    "/workspaces/NameSorter/NameSorter/NameSorter.Tests/NameSorter.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/NameSorter/NameSorter/NameSorter.csproj",
-        "projectName": "NameSorter",
-        "projectPath": "/workspaces/NameSorter/NameSorter/NameSorter.csproj",
+        "projectUniqueName": "/workspaces/NameSorter/NameSorter/NameSorter.Tests/NameSorter.Tests.csproj",
+        "projectName": "NameSorter.Tests",
+        "projectPath": "/workspaces/NameSorter/NameSorter/NameSorter.Tests/NameSorter.Tests.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/NameSorter/NameSorter/obj/",
+        "outputPath": "/workspaces/NameSorter/NameSorter/NameSorter.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
@@ -43,13 +43,25 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
             "NUnit": {
               "target": "Package",
               "version": "[4.1.0, )"
             },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
             "NUnit3TestAdapter": {
               "target": "Package",
               "version": "[4.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [

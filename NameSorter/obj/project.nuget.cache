@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "aA4zV3JnT5YzEfEBkW5dTBkRIROseTAnykGCzm6DtwPGGIAG6oBh1MrxNtETm3CvzTEGf8pWlbfjnf1yn6DLgQ==",
+  "dgSpecHash": "2hg/VFhSrDwCed+D2PpHrO75fuV02o+e6lIfw/D81qtWvWcHDqdlyKP66fG+3FKc9zP9fbZ1QPhomXUUj5UV/g==",
   "success": true,
   "projectFilePath": "/workspaces/NameSorter/NameSorter/NameSorter.csproj",
   "expectedPackageFiles": [
-    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.17/microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
-    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.17/microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
-    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.17/microsoft.netcore.app.host.linux-x64.7.0.17.nupkg.sha512"
+    "/home/codespace/.nuget/packages/nunit/4.1.0/nunit.4.1.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

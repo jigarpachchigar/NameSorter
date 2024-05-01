@@ -1,0 +1,6 @@
+/workspaces/NameSorter/NameSorter/obj/Debug/net8.0/NameSorter.csproj.AssemblyReference.cache
+/workspaces/NameSorter/NameSorter/obj/Debug/net8.0/NameSorter.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/NameSorter/NameSorter/obj/Debug/net8.0/NameSorter.AssemblyInfoInputs.cache
+/workspaces/NameSorter/NameSorter/obj/Debug/net8.0/NameSorter.AssemblyInfo.cs
+/workspaces/NameSorter/NameSorter/obj/Debug/net8.0/NameSorter.csproj.CoreCompileInputs.cache
+/workspaces/NameSorter/NameSorter/obj/Debug/net8.0/NameSorter.sourcelink.json
