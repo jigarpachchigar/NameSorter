@@ -1,0 +1,15 @@
+/workspaces/NameSorter/NameSorter/bin/Debug/netcoreapp7.0/NameSorter
+/workspaces/NameSorter/NameSorter/bin/Debug/netcoreapp7.0/NameSorter.deps.json
+/workspaces/NameSorter/NameSorter/bin/Debug/netcoreapp7.0/NameSorter.runtimeconfig.json
+/workspaces/NameSorter/NameSorter/bin/Debug/netcoreapp7.0/NameSorter.dll
+/workspaces/NameSorter/NameSorter/bin/Debug/netcoreapp7.0/NameSorter.pdb
+/workspaces/NameSorter/NameSorter/obj/Debug/netcoreapp7.0/NameSorter.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/NameSorter/NameSorter/obj/Debug/netcoreapp7.0/NameSorter.AssemblyInfoInputs.cache
+/workspaces/NameSorter/NameSorter/obj/Debug/netcoreapp7.0/NameSorter.AssemblyInfo.cs
+/workspaces/NameSorter/NameSorter/obj/Debug/netcoreapp7.0/NameSorter.csproj.CoreCompileInputs.cache
+/workspaces/NameSorter/NameSorter/obj/Debug/netcoreapp7.0/NameSorter.sourcelink.json
+/workspaces/NameSorter/NameSorter/obj/Debug/netcoreapp7.0/NameSorter.dll
+/workspaces/NameSorter/NameSorter/obj/Debug/netcoreapp7.0/refint/NameSorter.dll
+/workspaces/NameSorter/NameSorter/obj/Debug/netcoreapp7.0/NameSorter.pdb
+/workspaces/NameSorter/NameSorter/obj/Debug/netcoreapp7.0/NameSorter.genruntimeconfig.cache
+/workspaces/NameSorter/NameSorter/obj/Debug/netcoreapp7.0/ref/NameSorter.dll
